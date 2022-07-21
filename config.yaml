@@ -1,0 +1,5 @@
+### Enter file names below:
+input_file: "input_file.xlsx"
+url_replacement_file: "url_replacement_file.xlsx"
+place_holder: "en.wikipedia"
+prefix_after_duplicates_check: "CheckedForDuplicates___"
